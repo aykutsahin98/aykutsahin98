@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**aykutsahin98/aykutsahin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![GitHub followers](https://img.shields.io/github/followers/aykutsahin98?style=social)](https://github.com/aykutsahin98?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/aykutsahin98?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=aykutsahin98.visitor-badge)](https://GitHub.com/aykutsahin98/StrapDown.js/stargazers/)
@@ -31,3 +26,9 @@ If I talk about myself, I am 22 years old and graduated from Istanbul Şehir Uni
 [![Linkedin Badge](https://img.shields.io/badge/aykutsahiin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aykutsahiin/)<hr>
 [![Youtube Badge](https://img.shields.io/badge/Subscribe%20on%20youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/aykutsahinn) <hr>
 [![Instagram Badge](https://img.shields.io/badge/aykutsahiiin-follow%20on%20instagram-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/aykutsahiiin)
+
+
+
+
+<!--
+**aykutsahin98/aykutsahin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
