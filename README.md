@@ -22,13 +22,5 @@ If I talk about myself, I am 22 years old and graduated from Istanbul Şehir Uni
 - 💬 You can ask me about my software.
 - 📹 I produce educational content on software on my Youtube channel. You can subscribe to my channel.
 
-## 📫 How to Reach Me
-[![Linkedin Badge](https://img.shields.io/badge/aykutsahiin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aykutsahiin/)<hr>
-[![Youtube Badge](https://img.shields.io/badge/Subscribe%20on%20youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/aykutsahinn) <hr>
-[![Instagram Badge](https://img.shields.io/badge/aykutsahiiin-follow%20on%20instagram-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/aykutsahiiin)
-
-
-
-
 <!--
 **aykutsahin98/aykutsahin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
