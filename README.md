@@ -4,7 +4,7 @@
 
 ## Hi, I'm Aykut Sahin 👋 
 
-If I talk about myself, I am 22 years old and graduated from Istanbul Şehir University Computer Programming. <br> I have a youtube channel. I give information and training on software and technology on my channel.
+If I talk about myself, I am 24 years old and graduated from Istanbul Şehir University Computer Programming. <br> I have a youtube channel. I give information and training on software and technology on my channel.
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=aykutsahin98&show_icons=true&hide=contribs,prs" alt="aykutsahin's github stats" />
