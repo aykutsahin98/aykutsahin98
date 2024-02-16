@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/aykutsahin98?style=social)](https://github.com/aykutsahin98?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/aykutsahin98?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=aykutsahin98.visitor-badge)](https://GitHub.com/aykutsahin98/StrapDown.js/stargazers/)
+
 
 ## Hi, I'm Aykut Sahin 👋 
 
