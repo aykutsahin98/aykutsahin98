@@ -11,13 +11,6 @@ If I talk about myself, I am 24 years old and graduated from Istanbul Şehir Uni
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutsahin98&layout=compact" alt="My Top Langs" />
 </p>
 
-## 📚 Learning & Interested
-<code><img height="75" src="https://image.flaticon.com/icons/svg/888/888839.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/226/226777.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/381/381704.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/2772/2772128.svg"></code>
-
 # Social Media
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/aykutsahiiin)
